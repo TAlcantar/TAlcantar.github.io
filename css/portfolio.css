@@ -255,8 +255,8 @@ a:focus {
     height:auto;
     padding: 0;
     color: #fff;
-    background: url(../img/bridge.JPG) no-repeat bottom center scroll;
-    background-color: #000;
+    /*background: url(../img/bridge.JPG) no-repeat bottom center scroll*/;
+    background-color: #FF69B4;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     background-size: cover;

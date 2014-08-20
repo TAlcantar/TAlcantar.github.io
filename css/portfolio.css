@@ -242,7 +242,7 @@ a:focus {
 
     100% {
         -moz-transform: scale(1);
-        transform: scale(1);
+        transform: scale(1;)
     }
 }
 
@@ -254,7 +254,7 @@ a:focus {
     width: 100%;
     height:auto;
     padding: 0;
-    color: #fff;
+    color: #000000;
     background: url(../img/bridge.JPG) no-repeat bottom center scroll;
     background-color: #FFF;
     -webkit-background-size: cover;

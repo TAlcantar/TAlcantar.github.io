@@ -136,8 +136,8 @@ a:focus {
     padding: 100px 0;
     text-align: center;
     color: #fff;
-    background: url(../img/wood.jpg) no-repeat bottom center scroll;
-    background-color: #000;
+    background: url(../img/wood0.jpg) no-repeat bottom center scroll;
+    background-color: #F32B17;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     background-size: cover;
@@ -255,8 +255,8 @@ a:focus {
     height:auto;
     padding: 0;
     color: #FFFFFF;
-    background: url(../img/bridge.JPG) no-repeat bottom center scroll;
-    background-color: #000000;
+    background: url(../img/bridge0.JPG) no-repeat bottom center scroll;
+    background-color: #F30726;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     background-size: cover;
@@ -275,7 +275,7 @@ a:focus {
 
 #about{
     padding:50px 0 100px 0;
-     background: #1979BD;
+     background: #F36914;
 }
 
 @media(min-width:767px) {
